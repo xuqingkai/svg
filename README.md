@@ -1,2 +1,2 @@
 ###
-<img src="/youlaiyouqu.net/logo1.svg" />
+<img src="./youlaiyouqu.net/logo1.svg" />

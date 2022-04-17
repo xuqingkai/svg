@@ -5,6 +5,7 @@
 
 - LOGO
 <img src="./xuqingkai.com/logo1.svg" height="80" />
+<img src="./xuqingkai.com/logo2.svg" height="80" />
 
 ### youlaiyouqu.net
 

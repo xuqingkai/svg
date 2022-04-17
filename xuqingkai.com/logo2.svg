@@ -1,0 +1,26 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+	<defs>
+		<style>
+		.circle{fill:#f00;}
+		.icon{fill:#fff;font-family:Arial;}
+		.title{fill:#000;font-family:YouYuan;font-weight:bold;}
+		.domain{fill:#000;font-family:Arial;}
+		</style>
+	</defs>
+	<title>logo_svg</title>
+	<g id="icon">
+		<circle class="circle" cx="35" cy="32" r="16"></circle>
+		<text class="icon" text-anchor="start" font-size="24">
+		   <tspan x="23" y="40">徐</tspan>
+	   </text>
+		<text class="site" text-anchor="start">
+		   <tspan class="title" x="52" y="40" font-size="24">清凯的老窝</tspan>
+	   </text>
+	</g>
+	<g id="site">
+		<text class="site" text-anchor="start">
+		   <tspan class="domain" x="20" y="60" font-size="18">www.xuqingkai.com</tspan>
+	   </text>
+
+	</g>
+</svg>

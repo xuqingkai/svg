@@ -1,24 +1,24 @@
-<svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80">
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 80">
 	<defs>
 		<style>
 		.circle{fill:#f00;}
-		.icon{fill:#fff;font-family:Arial;}
+		.icon{fill:#fff;font-family:YouYuan;}
 		.title{fill:#000;font-family:YouYuan;font-weight:bold;}
 		.domain{fill:#000;font-family:Arial;}
 		</style>
 	</defs>
-	<title>logo_svg</title>
-	<g id="icon">
+	<title>xuqingkai.com/logo</title>
+	<rect x="0" y="0" width="100%" height="100%" fill="#eee" visibility="hidden" />
+	<g>
 		<circle class="circle" cx="35" cy="40" r="25"></circle>
-		<text class="icon" text-anchor="start" font-size="40">
-		   <tspan x="15" y="53">徐</tspan>
-	   </text>
+		<text text-anchor="start">
+		   <tspan class="icon" x="15" y="53" font-size="40">徐</tspan>
+	   	</text>
 	</g>
-	<g id="site">
-		<text class="site" text-anchor="start">
-		   <tspan class="title" x="70" y="40" font-size="26">徐清凯的老窝</tspan>
-		   <tspan class="domain" x="70" y="60" font-size="18">www.xuqingkai.com</tspan>
+	<g >
+	   	<text>
+			<tspan class="title" x="70" y="40" font-size="26">霞客的老窝</tspan>
+			<tspan class="domain" x="70" y="60" font-size="15">www.xuqingkai.com</tspan>
 	   </text>
-
 	</g>
 </svg>

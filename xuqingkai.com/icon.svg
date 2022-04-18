@@ -1,0 +1,15 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
+	<defs>
+		<style>
+		circle{fill:#f00;}
+		text{fill:#fff;font-family:YouYuan;}
+		</style>
+	</defs>
+	<title>xuqingkai.com/ico</title>
+	<circle class="circle" cx="50%" cy="50%" r="50%"></circle>
+	<g>
+		<text text-anchor="start" font-size="50">
+		   <tspan x="5" y="44">徐</tspan>
+	   	</text>
+	</g>
+</svg>
